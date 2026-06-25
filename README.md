@@ -64,19 +64,23 @@ The rule path and monitored interface were corrected, allowing Suricata to succe
 
 ### Nmap Reconnaissance Scan
 
-![Nmap Scan](screenshots/01-nmap-scan.png)
+![Nmap Scan](screenshots/01_nmap_scan.png)
 
-### Detection in Wazuh Dashboard
+![Nmap Scan Details](screenshots/02_nmap_scan-details.png)
 
-![Wazuh Dashboard Alert](screenshots/02-wazuh-dashboard-alert.png)
+### Wazuh Dashboard Alerts
 
-### Suricata Alert Events
+![Wazuh Dashboard Alert](screenshots/03_wazuh_dashboard_alerts.png)
 
-![eve.json Alerts](screenshots/03-eve-json-alerts.png)
+![Wazuh Dashboard Alert Details](screenshots/04_wazuh-dashboard_alerts-details.png)
+
+### Suricata eve.json Alerts
+
+![eve.json Alerts](screenshots/05_eve_json_alerts.png)
 
 ### Wazuh Log Ingestion
 
-![Wazuh Log Ingestion](screenshots/04-wazuh-log-ingestion.png)
+![Wazuh Log Ingestion](screenshots/06_wazuh-log_ingestion.png)
 
 ---
 
